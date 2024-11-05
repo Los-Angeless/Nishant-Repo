@@ -1,4 +1,4 @@
-![logo](https://github.com/Nishant-1108/Nishant-1108/blob/main/wallpaperflare.com_wallpaper%20(3).jpg)
+![logo](https://github.com/Nishant-1108/Nishant-1108/blob/main/wallpaperflare.com_wallpaper%20(5).jpg)
 <h1 align="center">Hi 👋, I'm Nishant Wagharalkar</h1>
 <h3 align="center">I'm a fourth-year BTech Computer Engineering student, loves turning ideas into code. passionate about software development.</h3>
 
