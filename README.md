@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-1108&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-1108" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-1108" alt="nishant-1108" /></a> </p>
 
 - 🔭 I’m currently working on **[Microservices-Based Food Delivery System], A scalable food delivery system designed using Java Spring Boot, Docker, and Kubernetes.**
 
