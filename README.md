@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nishant Wagharalkar</h1>
-<h3 align="center">I'm a fourth-year BTech Computer Engineering student, loves turning ideas into code. passionate about software development.</h3>
+<h3 align="center">Recently Graduate BTech i Computer Engineering , loves turning ideas into code. passionate about software development.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BnZ2RpaWgxenFjbjByOXFwZ24xd2M2YmVlcjN5Z255dGlzanp1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 
